@@ -1,3 +1,4 @@
-.conf/**/tmp/
-.conf/**/cache/
-.conf/**/*.log
+machine/**/tmp/
+machine/**/cache/
+machine/**/*.log
+machine/**/*.txt
