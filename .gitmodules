@@ -10,3 +10,7 @@
 	path = sources/meta-openembedded
 	url = git://git.openembedded.org/meta-openembedded
 	branch = master
+[submodule "sources/meta-clang"]
+	path = sources/meta-clang
+	url = https://github.com/kraj/meta-clang.git
+	branch = master
