@@ -6,3 +6,4 @@ machine/**/*.log
 machine/**/*.txt
 machine/**/*.lock
 machine/**/*.sock
+downloads/
