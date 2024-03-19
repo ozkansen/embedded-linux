@@ -1,4 +1,8 @@
 machine/**/tmp/
 machine/**/cache/
+machine/**/downloads/
+machine/**/sstate-cache/
 machine/**/*.log
 machine/**/*.txt
+machine/**/*.lock
+machine/**/*.sock
